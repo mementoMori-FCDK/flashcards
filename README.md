@@ -1,5 +1,5 @@
 # About
-Practice project using Redux and Redux Toolkit to manage the complex state of a flashcard-style quiz app. Users are able to create their own topics, quizzes for those topics, and flashcards for those quizzes. Users are able to interact with their quizzes by flipping flashcards over. Hosted at memo-flashcards.netlify.app/
+Practice project using Redux and Redux Toolkit to manage the complex state of a flashcard-style quiz app. Users are able to create their own topics, quizzes for those topics, and flashcards for those quizzes. Users are able to interact with their quizzes by flipping flashcards over. Hosted at https://memo-flashcards.netlify.app/
 
 # To Run
 
