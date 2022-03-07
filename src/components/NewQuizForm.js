@@ -21,11 +21,11 @@ export default function NewQuizForm() {
     }
 
     const cardIds = [];
-    let quizId = uuidv4();
+    let id = uuidv4();  //quizId
 
     // create the new cards here and add each card's id to cardIds
     // create the new quiz here
-    dispatch(addQuizAndQuizIdAction(quizId, name, topicId, cardIds));
+    dispatch(addQuizAndQuizIdAction(id, name, topicId, cardIds));
     
     history.push(ROUTES.quizzesRoute());
   };
